@@ -1,0 +1,9 @@
+.env
+.env.json
+.secret
+.secret.json
+node_modules/
+build/
+bin/
+
+soljson*
